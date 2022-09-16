@@ -4,7 +4,7 @@ One-off:
 
 ```
 $ sudo apt-get install python3 pip3 # or equivalent
-$ pip3 install mkdocs-material mkdocs-awesome-pages-plugin git+https://github.com/jldiaz/mkdocs-plugin-tags.git
+$ pip3 install -r requirements.txt
 ```
 
 after that to view the documents locally run:
